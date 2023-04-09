@@ -13,3 +13,6 @@
   funcionando saida de audio analogica ,todas usbs,dual monitor,
   microfone não esta funcionando
   
+ipc_control_port_options adicionado para abrir aplicativos que utiliza o electron
+boot funcionando apenas com security boot ,amfi e sip disabilitado
+
